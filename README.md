@@ -1,7 +1,7 @@
 # README
-This repository is the official implementation of " ". 
+This repository is the official implementation of our work "A Grassmannian Manifold Self-Attention Network for Signal Classification", which has been accepted by IJCAI 2024. 
 
-For more details of MAtt, please refer to our paper: ' '.
+The implementation of our GDLNet is based on the code of Matt [a]. We would like to express our sincere thanks to the authors.
 
 ## Requirements
 #### Step 1:
@@ -34,14 +34,7 @@ All default hyperparameters are already set in files. 'which_dataset' can be cho
 
 ## Reference
 ```bash
-@article{pan2022matt,
-  title={MAtt: a manifold attention network for EEG decoding},
-  author={Pan, Yue-Ting and Chou, Jing-Lun and Wei, Chun-Shu},
-  journal={Advances in Neural Information Processing Systems},
-  volume={35},
-  pages={31116--31129},
-  year={2022}
-}
+[a] Pan, Y. T., Chou, J. L., & Wei, C. S. (2022). MAtt: A manifold attention network for EEG decoding. Advances in Neural Information Processing Systems, 35, 31116-31129.
 ```
 
 
